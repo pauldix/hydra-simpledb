@@ -1,0 +1,9 @@
+h1. HydraSimpleDB
+
+Questions and issues should be brought up on the "Typhoeus mailing list.":http://groups.google.com/group/typhoeus
+
+"Typhoeus project page":http://github.com/pauldix/typhoeus/tree/master
+
+h2. Summary
+
+A Ruby SimpleDB library based on the HTTP library Typhoeus.
